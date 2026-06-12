@@ -20,7 +20,9 @@ namespace LaptopCart.Controllers
             //then you must changes in all the controllers where this service(Stripe) is being used. Instead you can use Dependency injection concept here.
 
             string result = _paymentSerive.pay(1000);
-            
+
+            ViewBag.Result = result;//Storing it in ViewBag
+
             return View();
         }
     }
