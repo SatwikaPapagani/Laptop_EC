@@ -1,7 +1,12 @@
+using LaptopCart.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//Dependency Injection Setup
+builder.Services.AddScoped<IPaymentService, RazorPay>();
 
 var app = builder.Build();
 
