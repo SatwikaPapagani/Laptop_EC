@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36915.13 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaptopCart", "LaptopCart\LaptopCart.csproj", "{F2A834E5-16CF-4F67-8FDA-968EBD7434FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaptopCart", "LaptopCart\LaptopCart.csproj", "{80867D99-4375-4357-AB75-12FD165A122C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F2A834E5-16CF-4F67-8FDA-968EBD7434FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F2A834E5-16CF-4F67-8FDA-968EBD7434FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F2A834E5-16CF-4F67-8FDA-968EBD7434FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F2A834E5-16CF-4F67-8FDA-968EBD7434FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80867D99-4375-4357-AB75-12FD165A122C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80867D99-4375-4357-AB75-12FD165A122C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80867D99-4375-4357-AB75-12FD165A122C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80867D99-4375-4357-AB75-12FD165A122C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7A390F58-A633-44FA-A715-B44D1C351EA6}
+		SolutionGuid = {A7E2F981-3303-4B68-89F2-16CCCD31A410}
 	EndGlobalSection
 EndGlobal
